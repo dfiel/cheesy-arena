@@ -7,7 +7,7 @@ package web
 
 import (
 	"fmt"
-	"github.com/Team254/cheesy-arena/model"
+	"github.com/dfiel/cheesy-arena/model"
 	"io"
 	"io/ioutil"
 	"net/http"

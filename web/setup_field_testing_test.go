@@ -4,8 +4,8 @@
 package web
 
 import (
-	"github.com/Team254/cheesy-arena/game"
-	"github.com/Team254/cheesy-arena/websocket"
+	"github.com/dfiel/cheesy-arena/game"
+	"github.com/dfiel/cheesy-arena/websocket"
 	gorillawebsocket "github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
 	"testing"

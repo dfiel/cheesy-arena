@@ -5,8 +5,8 @@ package web
 
 import (
 	"encoding/json"
-	"github.com/Team254/cheesy-arena/field"
-	"github.com/Team254/cheesy-arena/game"
+	"github.com/dfiel/cheesy-arena/field"
+	"github.com/dfiel/cheesy-arena/game"
 	"github.com/stretchr/testify/assert"
 	"net/http/httptest"
 	"testing"

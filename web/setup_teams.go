@@ -8,8 +8,8 @@ package web
 import (
 	"bytes"
 	"fmt"
-	"github.com/Team254/cheesy-arena/model"
 	"github.com/dchest/uniuri"
+	"github.com/dfiel/cheesy-arena/model"
 	"github.com/gorilla/mux"
 	"net/http"
 	"strconv"

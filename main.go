@@ -4,8 +4,8 @@
 package main
 
 import (
-	"github.com/Team254/cheesy-arena/field"
-	"github.com/Team254/cheesy-arena/web"
+	"github.com/dfiel/cheesy-arena/field"
+	"github.com/dfiel/cheesy-arena/web"
 	"log"
 	"math/rand"
 	"time"

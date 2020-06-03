@@ -2,7 +2,7 @@ Cheesy Arena Lite [![Build Status](https://travis-ci.org/Team254/cheesy-arena.sv
 ============
 A game-agnostic field management system that just works.
 
-For the game-specific version, switch to the `master` branch or see [Cheesy Arena](https://github.com/Team254/cheesy-arena/tree/master).
+For the game-specific version, switch to the `master` branch or see [Cheesy Arena](https://github.com/dfiel/cheesy-arena/tree/master).
 
 ## Key features
 **For participants and spectators:**
@@ -58,18 +58,18 @@ The PLC code can be found [Here](https://github.com/ejordan376/Cheesy-PLC)
 Due to the prohibitive cost of the LEDs and LED controllers used on official fields, a custom solution was developed for Chezy Champs using consumer-grade LED strips and embedded microcontrollers.
 
 ## Advanced networking
-See the [Advanced Networking wiki page](https://github.com/Team254/cheesy-arena/wiki/Advanced-Networking-Concepts) for instructions on what equipment to obtain and how to configure it in order to support advanced network security.
+See the [Advanced Networking wiki page](https://github.com/dfiel/cheesy-arena/wiki/Advanced-Networking-Concepts) for instructions on what equipment to obtain and how to configure it in order to support advanced network security.
 
 ## Contributing
 Cheesy Arena is far from finished! You can help by:
 
 * Checking out the [TODO list](TODO.md), writing a missing feature, and sending a pull request
-* Filing any bugs or feature requests using the [issue tracker](https://github.com/Team254/cheesy-arena/issues)
-* Contributing documentation to the [wiki](https://github.com/Team254/cheesy-arena/wiki)
+* Filing any bugs or feature requests using the [issue tracker](https://github.com/dfiel/cheesy-arena/issues)
+* Contributing documentation to the [wiki](https://github.com/dfiel/cheesy-arena/wiki)
 * Sending baked goods to [Pat](https://github.com/patfair)
 
 ## Acknowledgements
-[Several folks](https://github.com/Team254/cheesy-arena/graphs/contributors) have contributed pull requests. Thanks!
+[Several folks](https://github.com/dfiel/cheesy-arena/graphs/contributors) have contributed pull requests. Thanks!
 
 In addition, the following individuals have contributed to make Cheesy Arena a reality:
 
